@@ -67,7 +67,8 @@ void display(struct node *root)
 }
 
 int main()
-{
+{   
+    printf("\n\n\n\t\t\t20th Que Of DSA Quations");
     struct node *head;
     head=NULL;
     int n=5;
