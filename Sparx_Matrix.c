@@ -85,7 +85,9 @@ void print(struct node *head)
 }
 
 int main()
-{  printf("Saurabh Bachhav");
+{
+     printf("Saurabh Bachhav");
+  printf("Bt22cse130");
    struct node *head1,*head2,*head;
    head1= NULL;
    head2=NULL;
